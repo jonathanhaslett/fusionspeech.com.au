@@ -239,7 +239,7 @@ ul {
 
 li.top {
 	padding-left: 10px;
-	background-image: url(../images/bullet1.png);
+	background-image: url(../images/bullet1-opt.png);
 	background-repeat: no-repeat;
 	background-position: 0em 0.3em;
 }
@@ -247,7 +247,7 @@ li.top {
 li.sub1 {
 	margin-left: -116px;
 	padding-left: 10px;
-	background-image: url(../images/bullet2.gif);
+	background-image: url(../images/bullet2-opt.png);
 	background-repeat: no-repeat;
 	background-position: 0.3em 0.3em;
 }
