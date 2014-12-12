@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Fusion Speech Therapy Services</title>
+    <meta name="viewport" content="initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="styles/fusion.css">
+  </head>
+  <body>
+    <div style="width=700px;">
+      <div class="center"><img alt="Fusion Speech Therapy Services" src="images/FusionLogo_Final_WebSmall.jpg"></div>
+      <div class="center">
+        <hr class="blended"></div>
+      <div class="center"> <span class="tagline">Providing professional,
+          affordable speech and language therapy services to the Illawarra.</span><br>
+        <p class="therapists">Julie Merryfull and Natalie Gray</p>
+        <p class="address">B.App.Sci. (Sp.Path) - Members of Speech Pathology
+          Australia</p>
+        <p class="address">41A Yellagong Street, West Wollongong 2500</p>
+        <p class="address">Mobile: (0432) 486-337</p>
+        <p class="address">Fax: (02) 4201-9028</p>
+        <p class="address">E-mail:</p>
+        <p class="email"><a class="email" title="mailto:natalie@fusionspeech.com.au?subject=Website Enquiry"
+            href="mailto:natalie@fusionspeech.com.au?subject=Website%20Enquiry">natalie@fusionspeech.com.au</a></p>
+        <p class="email"><a class="email" title="mailto:julie@fusionspeech.com.au?subject=Website Enquiry"
+            href="mailto:julie@fusionspeech.com.au?subject=Website%20Enquiry">julie@fusionspeech.com.au</a></p>
+        <br>
+        <div id="list_container">
+          <ul id="list1">
+            <div class="list1">
+              <li id="active">Assessment and therapy for children 0-18 years</li>
+                <ul>
+                  <li>Articulation</li>
+                  <li>Verbal Dyspraxia</li>
+                  <li>Expressive and Receptive Language</li>
+                  <li>Stuttering</li>
+                  <li>Voice</li>
+                  <li>Paediatric Feeding</li>
+                  <li>Literacy</li>
+                </ul>
+              <li>Preschool and School based services</li>
+              <li>Group Therapy (depending on demand)</li>
+              <li>In-service Training</li>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
