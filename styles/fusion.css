@@ -1,3 +1,13 @@
+img.logo{
+	max-width: 400px;
+	width: 100%;
+}
+
+.google_map{
+	width: 100%;
+	max-width: 600px;
+}
+
 div {
 		position: relative;
 }
@@ -16,7 +26,7 @@ div.main {
 	word-wrap: break-word;
 	background: rgb(255, 255, 255);
 	text-align: center;
-	width: 700px; 
+	max-width: 700px; 
 }
 
 div.spaced {
@@ -29,7 +39,7 @@ div.spaced {
 
 #listcontainer {
 	text-align: center;
-	width: 600px;
+	max-width: 600px;
 }
 
 hr.blended {
@@ -120,7 +130,7 @@ hr.blended {
 	font-variant: normal;
 	font-weight: normal;
 	letter-spacing: normal;
-	line-height: 25px;
+	line-height: 40px;
 	margin: 0px;
 	opacity: 1;
 	padding-bottom: 8px;
@@ -132,6 +142,12 @@ hr.blended {
 	word-spacing: 0px;
 	background-color: white;
 	text-align: center;
+}
+
+#email a{
+	display: block;
+	height: 40px;
+	padding:0;
 }
 
 #red_notice {
@@ -183,7 +199,7 @@ hr.blended {
 #copyright {
 	color: black;
 	font-family: Arial-ItalicMT,Arial,san-serif;
-	font-size: 10px;
+	font-size: 12px;
 	font-stretch: normal;
 	font-style: italic;
 	font-variant: normal;
@@ -212,7 +228,7 @@ a:hover {
 }
 
 ul {
-	margin-left: 0;
+	/*margin-left: 0;*/
 	padding-left: 0;
 	list-style: none;
 	color: black;
@@ -224,7 +240,8 @@ ul {
 	font-weight: normal;
 	letter-spacing: normal;
 	line-height: 30px;
-	margin-left: 140px;
+	margin-left: 5%;
+	padding-right: 5%;
 	opacity: 1;
 	padding-bottom: 0px;
 	padding-top: 0px;
@@ -245,8 +262,9 @@ li.top {
 }
 
 li.sub1 {
-	margin-left: -116px;
-	padding-left: 10px;
+	/*margin-left: -116px;*/
+	padding-left: 5%;
+	/*padding-right: 5%;*/
 	background-image: url(../images/bullet2-opt.png);
 	background-repeat: no-repeat;
 	background-position: 0.3em 0.3em;

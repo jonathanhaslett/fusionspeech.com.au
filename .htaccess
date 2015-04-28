@@ -14,8 +14,8 @@ Options +SymLinksIfOwnerMatch
 RewriteEngine on
 
 # Redirect www.fusionspeech.com.au -> fusionspeech.com.au
-RewriteCond %{HTTP_HOST} !^fusionspeech\.com\.au$ [NC]
-RewriteRule ^(.*)$ https://fusionspeech.com.au/$1 [R=301,L]
+#RewriteCond %{HTTP_HOST} !^fusionspeech\.com\.au$ [NC]
+#RewriteRule ^(.*)$ https://fusionspeech.com.au/$1 [R=301,L]
 
 <IfModule mod_expires.c>
 	# Enable expirations
